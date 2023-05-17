@@ -66,7 +66,7 @@ theory: |
   int main() {
     string acc = "";
     acc += "Hello, ";
-    acc += "World";
+    acc += "World!";
     std::cout << acc;
   }
   ```
